@@ -7,5 +7,6 @@ A website that offers potential employers a veiw of my current work.
 HTML
 CSS
 React
+javascript
 
 2023 Cody Bronsell Portfolio
